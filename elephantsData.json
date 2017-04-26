@@ -1,0 +1,252 @@
+{"msg" : "success",
+"info" : {"results" : 267,
+	"pages" : 27,
+	"current_page" : 1
+	},
+"payload" : [
+	 {
+		"title" : "Big-eared elephant",
+		"uploader" : "Firkin",
+		"total_favorites" : 0,
+		"description" : "An elephant with exaggerated ears",
+		"tags" : "remix+276631, Africa, African, animal, elephant, mammal, zoo, zoology, ear",
+		"tags_array" : ["Africa","African","animal","ear","elephant","mammal","remix+276631","zoo","zoology"],
+		"svg_filesize" : 156996,
+		"downloaded_by" : 108,
+		"detail_link" : "https://openclipart.org/detail/276633/Big-eared%20elephant",
+		"id" : 276633,
+		"created" : "2017-03-29 10:43:15",
+		"svg" : { "url" : "https://openclipart.org/download/276633/BigEaredElephant.svg",
+			"png_thumb" : "https://openclipart.org/image/250px/svg_to_png/276633/BigEaredElephant.png",
+			"png_full_lossy" : "https://openclipart.org/image/800px/svg_to_png/276633/BigEaredElephant.png",
+			"png_2400px" : "https://openclipart.org/image/2400px/svg_to_png/276633/BigEaredElephant.png" },
+		"dimensions" : {
+			"png_thumb" : {
+				"width" : 210,
+				"height" : 250
+			},
+			"png_full_lossy" : {
+				"width" : 670,
+				"height" : 800
+			}
+		}
+	},
+	{
+		"title" : "Visit the zoo poster",
+		"uploader" : "Firkin",
+		"total_favorites" : 1,
+		"description" : "A vintage public domain poster",
+		"tags" : "zoo, poster, vintage, elephant, mammal, African, Africa",
+		"tags_array" : ["Africa","African","elephant","mammal","poster","vintage","zoo"],
+		"svg_filesize" : 905463,
+		"downloaded_by" : 107,
+		"detail_link" : "https://openclipart.org/detail/276631/Visit%20the%20zoo%20poster",
+		"id" : 276631,
+		"created" : "2017-03-29 10:38:51",
+		"svg" : { "url" : "https://openclipart.org/download/276631/VisitZooPoster.svg",
+			"png_thumb" : "https://openclipart.org/image/250px/svg_to_png/276631/VisitZooPoster.png",
+			"png_full_lossy" : "https://openclipart.org/image/800px/svg_to_png/276631/VisitZooPoster.png",
+			"png_2400px" : "https://openclipart.org/image/2400px/svg_to_png/276631/VisitZooPoster.png" },
+		"dimensions" : {
+			"png_thumb" : {
+				"width" : 198,
+				"height" : 250
+			},
+			"png_full_lossy" : {
+				"width" : 632,
+				"height" : 800
+			}
+		}
+	},
+	{
+		"title" : "Cigarette card - Elephant",
+		"uploader" : "Firkin",
+		"total_favorites" : 0,
+		"description" : "One of the \"Wild Animals of the World\" series of cigarette cards from Allen & Ginter, late 1800s. Due to their age I have done a little restoration where needed and also cropped them to just the picture, adjusted contrast, brightness and colour saturation. The originals can be found on the New York Metropolitan Museum of Art web site.",
+		"tags" : "card, cigarette, trading, vintage, antique, collectable, trade card, tobacco, Allen, Ginter, advertisement, advert, animal, wild, world, elephant, Asian, Asian, mammal",
+		"tags_array" : ["advert","advertisement","Allen","animal","antique","Asian","Asian","card","cigarette","collectable","elephant","Ginter","mammal","tobacco","trade card","trading","vintage","wild","world"],
+		"svg_filesize" : 5268218,
+		"downloaded_by" : 79,
+		"detail_link" : "https://openclipart.org/detail/276394/Cigarette%20card%20-%20Elephant",
+		"id" : 276394,
+		"created" : "2017-03-25 18:52:37",
+		"svg" : { "url" : "https://openclipart.org/download/276394/CigCardElephant.svg",
+			"png_thumb" : "https://openclipart.org/image/250px/svg_to_png/276394/CigCardElephant.png",
+			"png_full_lossy" : "https://openclipart.org/image/800px/svg_to_png/276394/CigCardElephant.png",
+			"png_2400px" : "https://openclipart.org/image/2400px/svg_to_png/276394/CigCardElephant.png" },
+		"dimensions" : {
+			"png_thumb" : {
+				"width" : 132,
+				"height" : 250
+			},
+			"png_full_lossy" : {
+				"width" : 420,
+				"height" : 800
+			}
+		}
+	},
+	{
+		"title" : "hand drawn elephant ",
+		"uploader" : "redglove",
+		"total_favorites" : 1,
+		"description" : "",
+		"tags" : "hand, drawn,elephant",
+		"tags_array" : ["drawn","elephant","hand"],
+		"svg_filesize" : 8462,
+		"downloaded_by" : 78,
+		"detail_link" : "https://openclipart.org/detail/275733/hand%20drawn%20elephant%20",
+		"id" : 275733,
+		"created" : "2017-03-18 22:31:12",
+		"svg" : { "url" : "https://openclipart.org/download/275733/fop_elephant.svg",
+			"png_thumb" : "https://openclipart.org/image/250px/svg_to_png/275733/fop_elephant.png",
+			"png_full_lossy" : "https://openclipart.org/image/800px/svg_to_png/275733/fop_elephant.png",
+			"png_2400px" : "https://openclipart.org/image/2400px/svg_to_png/275733/fop_elephant.png" },
+		"dimensions" : {
+			"png_thumb" : {
+				"width" : 164,
+				"height" : 119
+			},
+			"png_full_lossy" : {
+				"width" : 518,
+				"height" : 379
+			}
+		}
+	},
+	{
+		"title" : "My Pet Elephant",
+		"uploader" : "lexilee",
+		"total_favorites" : 2,
+		"description" : "",
+		"tags" : "Animal",
+		"tags_array" : ["Animal"],
+		"svg_filesize" : 10051,
+		"downloaded_by" : 163,
+		"detail_link" : "https://openclipart.org/detail/274998/My%20Pet%20Elephant",
+		"id" : 274998,
+		"created" : "2017-03-08 20:54:13",
+		"svg" : { "url" : "https://openclipart.org/download/274998/-elephant.svg",
+			"png_thumb" : "https://openclipart.org/image/250px/svg_to_png/274998/-elephant.png",
+			"png_full_lossy" : "https://openclipart.org/image/800px/svg_to_png/274998/-elephant.png",
+			"png_2400px" : "https://openclipart.org/image/2400px/svg_to_png/274998/-elephant.png" },
+		"dimensions" : {
+			"png_thumb" : {
+				"width" : 250,
+				"height" : 239
+			},
+			"png_full_lossy" : {
+				"width" : 800,
+				"height" : 764
+			}
+		}
+	},
+	{
+		"title" : "Silhouette Animaux 09",
+		"uploader" : "JLouis",
+		"total_favorites" : 2,
+		"description" : "Silhouette of a elephant - Elephant en silhouette.",
+		"tags" : "animal, animals, animaux, elephant, Formen, silhouette, \u00e9l\u00e9phant",
+		"tags_array" : ["animal","animals","animaux","elephant","Formen","silhouette","\u00e9l\u00e9phant"],
+		"svg_filesize" : 21816,
+		"downloaded_by" : 155,
+		"detail_link" : "https://openclipart.org/detail/272628/Silhouette%20Animaux%2009",
+		"id" : 272628,
+		"created" : "2017-02-12 15:07:11",
+		"svg" : { "url" : "https://openclipart.org/download/272628/sihouette-animaux-09.svg",
+			"png_thumb" : "https://openclipart.org/image/250px/svg_to_png/272628/sihouette-animaux-09.png",
+			"png_full_lossy" : "https://openclipart.org/image/800px/svg_to_png/272628/sihouette-animaux-09.png",
+			"png_2400px" : "https://openclipart.org/image/2400px/svg_to_png/272628/sihouette-animaux-09.png" },
+		"dimensions" : {
+			"png_thumb" : {
+				"width" : 250,
+				"height" : 224
+			},
+			"png_full_lossy" : {
+				"width" : 800,
+				"height" : 717
+			}
+		}
+	},
+	{
+		"title" : "Elephants Mess with a Man",
+		"uploader" : "j4p4n",
+		"total_favorites" : 3,
+		"description" : "These two elephants are messing with this poor man. This could be a bit symbolic maybe.",
+		"tags" : "bully, b_w, circus, elephant, male, man, Semi-Realistic People, tease, teasing, zoo",
+		"tags_array" : ["bully","b_w","circus","elephant","male","man","Semi-Realistic People","tease","teasing","zoo"],
+		"svg_filesize" : 913774,
+		"downloaded_by" : 272,
+		"detail_link" : "https://openclipart.org/detail/270551/Elephants%20Mess%20with%20a%20Man",
+		"id" : 270551,
+		"created" : "2017-01-13 08:20:44",
+		"svg" : { "url" : "https://openclipart.org/download/270551/elephantsmesswithman.svg",
+			"png_thumb" : "https://openclipart.org/image/250px/svg_to_png/270551/elephantsmesswithman.png",
+			"png_full_lossy" : "https://openclipart.org/image/800px/svg_to_png/270551/elephantsmesswithman.png",
+			"png_2400px" : "https://openclipart.org/image/2400px/svg_to_png/270551/elephantsmesswithman.png" },
+		"dimensions" : {
+			"png_thumb" : {
+				"width" : 250,
+				"height" : 186
+			},
+			"png_full_lossy" : {
+				"width" : 800,
+				"height" : 594
+			}
+		}
+	},
+	{
+		"title" : "elephant",
+		"uploader" : "clausrei",
+		"total_favorites" : 3,
+		"description" : "dancing elephant",
+		"tags" : "dancing elephant",
+		"tags_array" : ["dancing elephant"],
+		"svg_filesize" : 55229,
+		"downloaded_by" : 262,
+		"detail_link" : "https://openclipart.org/detail/270083/elephant",
+		"id" : 270083,
+		"created" : "2017-01-04 15:42:16",
+		"svg" : { "url" : "https://openclipart.org/download/270083/elevant2.svg",
+			"png_thumb" : "https://openclipart.org/image/250px/svg_to_png/270083/elevant2.png",
+			"png_full_lossy" : "https://openclipart.org/image/800px/svg_to_png/270083/elevant2.png",
+			"png_2400px" : "https://openclipart.org/image/2400px/svg_to_png/270083/elevant2.png" },
+		"dimensions" : {
+			"png_thumb" : {
+				"width" : 218,
+				"height" : 250
+			},
+			"png_full_lossy" : {
+				"width" : 699,
+				"height" : 800
+			}
+		}
+	},
+	{
+		"title" : "Seal Chiang Mai",
+		"uploader" : "GDJ",
+		"total_favorites" : 1,
+		"description" : "Seal Chiang Mai from https:\/\/commons.wikimedia.org\/wiki\/File:Seal_Chiang_Mai.png",
+		"tags" : "Seal, Emblem, Thailand, Thai, Nation, Country, Culture, Government, Elephant, Animal,",
+		"tags_array" : ["Animal","Country","Culture","Elephant","Emblem","Government","Nation","Seal","Thai","Thailand"],
+		"svg_filesize" : 101253,
+		"downloaded_by" : 207,
+		"detail_link" : "https://openclipart.org/detail/267818/Seal%20Chiang%20Mai",
+		"id" : 267818,
+		"created" : "2016-12-03 21:59:48",
+		"svg" : { "url" : "https://openclipart.org/download/267818/Seal-Chiang-Mai.svg",
+			"png_thumb" : "https://openclipart.org/image/250px/svg_to_png/267818/Seal-Chiang-Mai.png",
+			"png_full_lossy" : "https://openclipart.org/image/800px/svg_to_png/267818/Seal-Chiang-Mai.png",
+			"png_2400px" : "https://openclipart.org/image/2400px/svg_to_png/267818/Seal-Chiang-Mai.png" },
+		"dimensions" : {
+			"png_thumb" : {
+				"width" : 240,
+				"height" : 240
+			},
+			"png_full_lossy" : {
+				"width" : 768,
+				"height" : 766
+			}
+		}
+	}
+	]
+
+}
